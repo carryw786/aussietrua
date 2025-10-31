@@ -1,0 +1,6 @@
+HTTP/1.1 304 The condition specified using HTTP conditional header(s) is not met.
+Server: Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0
+x-ms-error-code: ConditionNotMet
+x-ms-request-id: ccf71741-b01e-003d-31d1-e673a8000000
+x-ms-version: 2018-03-28
+Date: Thu, 26 Jun 2025 19:33:57 GMT
